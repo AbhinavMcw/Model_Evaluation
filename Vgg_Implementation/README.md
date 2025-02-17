@@ -41,7 +41,7 @@ This will return both the test results.
 `pytest Model_Evaluation/Vgg_Implementation/tests/test_vgg_real_image.py -s` 
 
 ### To run sub-module tests alone:
-`pytest Model_Evaluation/Vgg_Implementation/tests/test_alexnet.py`
+`pytest Model_Evaluation/Vgg_Implementation/tests/test_vgg.py`
 
 ## Expected Demo Results
 
