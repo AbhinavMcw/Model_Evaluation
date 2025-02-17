@@ -45,6 +45,6 @@ This will return both the test results.
 
 ## Expected Demo Results
 
-- Pretrained Model Predicted Class Index: 208
-- Custom Model Predicted Class Index: 208
+- Pretrained Model Predicted Class: Egyptian cat (285)
+- Custom Model Predicted Class: Egyptian cat (285)
 
